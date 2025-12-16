@@ -292,7 +292,7 @@ Inoltre chiedo la cortesia di aggiungere una stella se pensi sia utile o per aum
 ## Progetti con il massimo dei voti
 
 ### 2025 - 30/30L
-
+<https://github.com/LaMontagna-Lunghi-Migliorati-Papini/GalaxyTrucker>
 
 ### 2024 - 30/30L
 
